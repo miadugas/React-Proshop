@@ -1,5 +1,5 @@
 # ProShop
-## MERN Shopping Cart with React & Redux, Express & MongoDB
+## Custom MERN Shopping Cart with React & Redux, Express & MongoDB
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
