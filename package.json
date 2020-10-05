@@ -1,0 +1,26 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "MERN Shopping cart app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react-router-bootstrap": "^0.25.0",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node backend/server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miadugas/React-Proshop.git"
+  },
+  "author": "Mia Dugas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miadugas/React-Proshop/issues"
+  },
+  "homepage": "https://github.com/miadugas/React-Proshop#readme"
+}
