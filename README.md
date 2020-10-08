@@ -1,5 +1,5 @@
 # ProShop
-## Custom MERN Shopping Cart with React & Redux, Express & MongoDB
+## Custom MERN Shopping Cart with React,Redux, NodeJS, Express & MongoDB
 
 #### There are a lot of "eCommerce" pre-built templets out there, but most use a liteny of some kind of prebuilt plugin or platform. I have build a completely customized eCommerce / shopping cart application from scratch with the MERN stack with the following functionality: 
 
