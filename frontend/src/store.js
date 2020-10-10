@@ -17,17 +17,14 @@ const cartItemsFromStorage = localStorage.getItem('cartItems')
   const initialState = {
     cart: {
       cartItems: cartItemsFromStorage,
-      shippingAddress: shippingAddressFromStorage,
+      // shippingAddress: shippingAddressFromStorage,
     },
     // userLogin: { userInfo: userInfoFromStorage },
   }
 
-const initialState ={}
-
 const middleware = [thunk]
 
 const store = createStore(reducer, initialState, composeWithDevTools(applyMiddleware(...middleware)))
-
 
 
 export default store
